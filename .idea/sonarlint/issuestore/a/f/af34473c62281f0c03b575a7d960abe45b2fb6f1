@@ -1,2 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÆÎÿÿÿÿÿ8¶ÛÃ å1J$f22b8df3-eeba-461e-8471-c2e195363ba8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÆÎÿÿÿÿÿ8ÌÍúóå1J$5ac34472-0080-40af-b5e6-d1e0dbedd516
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÆàÛşÿÿÿÿ8ÑÍúóå1J$bf09afb4-823c-4163-90dc-a2e82fec31c5
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8×Íúóå1J$712e7272-51f2-4de2-9637-a7ba1f84b25d

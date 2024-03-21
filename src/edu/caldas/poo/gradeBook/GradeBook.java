@@ -1,5 +1,7 @@
 package edu.caldas.poo.gradeBook;
 
+import java.util.Scanner;
+
 public class GradeBook {
     private String courseName;
 
@@ -16,4 +18,10 @@ public class GradeBook {
     public String displayMessage(){
         return "Bienvenido a la lista de planillas : ";
     }
+
+    public void determineClassAverage(){
+
+    }
+
+
 }
